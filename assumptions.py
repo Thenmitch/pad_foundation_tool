@@ -1,6 +1,5 @@
 # assumptions.py
 
-import subscript as sub
 # --------------------------------------------------
 # ENGINEERING ASSUMPTIONS – PAD FOUNDATIONS
 # --------------------------------------------------
@@ -60,3 +59,4 @@ The following checks are **not included**:
 
 ⚠️ This tool is for **preliminary sizing only** and must not be used for final design.
 """
+
